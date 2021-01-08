@@ -38,6 +38,14 @@ background-color: #6c6b6b;
     background-color:#deafbc;
 }
 
+.ui-menu-color-interests{
+    background-color:gray;
+}
+
+.ui-menu-color-github{
+background-color:white;
+}
+
 .ui-menu-color-download{
     background-color:#fae9e9;
 }
