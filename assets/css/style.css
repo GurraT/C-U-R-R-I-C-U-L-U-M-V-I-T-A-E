@@ -424,8 +424,10 @@ button[type="submit"]:hover{
     text-shadow: 1px 1px #404040; 
 }
 
+div#map {min-height: 360px;}
+
 /*---------------------------------Media query*/
-@mediascreen(min-width:992px) {
+@media screen and (min-width:992px) {
     .center-form {
     padding-top: 30px;
     min-height: 240px;
